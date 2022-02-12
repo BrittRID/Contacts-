@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     padding: 10px;
-    background: linear-gradient(135deg, #71b7e6, #9b59b6) ;
+    background: linear-gradient(135deg, #71b7e6, #a3a3a3) ;
 
 }
 .container {
@@ -36,7 +36,7 @@ body{
     bottom: 0;
     height: 3px;
     width: 30px;
-    background: linear-gradient(135deg, #71b7e6, #9b59b6) ;
+    background: linear-gradient(135deg, #71b7e6, #c8c1ca) ;
     }
 
 .container form .user-details{
@@ -123,11 +123,11 @@ form .button input{
     font-weight: 500;
     border-radius: 5px;
     letter-spacing: 1px;
-    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    background: linear-gradient(135deg, #71b7e6, #c8c1ca) ;
 }
 
 form .button input:hover{
-background: linear-gradient(135deg, #71b7e6, #9b59b6) ;
+    background: linear-gradient(135deg, #71b7e6, #c8c1ca) ;
 }
 @media (max-width: 584px){
     .container{
